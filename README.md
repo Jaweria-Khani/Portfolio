@@ -2,7 +2,7 @@
 
 Modern portfolio website for Jaweria Khan, Front-End Developer. Built with vanilla HTML, CSS, and JavaScript. No frameworks, 100% custom code.
 
-**Live Demo:** https://jaweria-khan.vercel.app
+**Live Demo:** https://portfolio-jaweria-khan.vercel.app/ 
 
 ### **Features**
 - **Responsive Design**: Mobile-first layout with fluid grids + aspect-ratio cards
@@ -25,7 +25,3 @@ Modern portfolio website for Jaweria Khan, Front-End Developer. Built with vanil
 ### **Projects Showcased**
 1. **UET Mardan Website Redesign** - Complete UI/UX overhaul for university site. Focus: accessibility + mobile UX
 2. **PILAP Research Dashboard** - Data visualization dashboard for research analytics. Built with Chart.js
-
-# Open in browser
-cd portfolio
-open index.html
